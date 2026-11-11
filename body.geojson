@@ -18,6 +18,15 @@
         "popisek": "Hlavní město České republiky na Vltavě, sídlo státních institucí, Pražský hrad a Karlův most."
       },
       "geometry": { "type": "Point", "coordinates": [14.4378, 50.0755] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nazev": "Random mesto",
+        "popisek": "Hlavní město České republiky na Vltavě, sídlo státních institucí, Pražský hrad a Karlův most."
+      },
+      "geometry": { "type": "Point", "coordinates": [16.4378, 49.7755] }
     }
   ]
 }
